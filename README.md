@@ -65,11 +65,11 @@ I am also well-versed in Agile and Scrum methodologies.<br>
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
-  </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
+  </tr>
     <td align="center" width="88"> 
         <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
@@ -102,6 +102,12 @@ I am also well-versed in Agile and Scrum methodologies.<br>
 </table>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=prozhyvarov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="prozhyvarov's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prozhyvarov&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="prozhyvarov's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prozhyvarov&theme=tokyonight&hide_border=true" alt="prozhyvarov's GitHub Stats" />
+
 ### GitHub Stats :
 
 <table align="center">
@@ -120,10 +126,6 @@ I am also well-versed in Agile and Scrum methodologies.<br>
   </tr>
 </table>
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
-  
 <br>
 
 <div align="center">
