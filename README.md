@@ -102,11 +102,14 @@ I am also well-versed in Agile and Scrum methodologies.<br>
 </table>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prozhyvarov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="prozhyvarov's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prozhyvarov&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="prozhyvarov's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prozhyvarov&theme=tokyonight&hide_border=true" alt="prozhyvarov's GitHub Stats" />
+<p align="left">
+<a href="https://codetime.dev/ua/dashboard" target="_blank">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25783%26project%3D%26in=0" height="20">
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=prozhyvarov&label=Profile%20Views&pretty=true" height="20"/>
+</a>
+</p>
 
 ### GitHub Stats :
 
