@@ -14,6 +14,10 @@ I am currently finishing **react and node.js** course in Canada, and I have comp
 My project experience spans both team and individual projects, where I've utilized technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**.<br>
 I am also well-versed in Agile and Scrum methodologies.<br>
 
+I have experience working on commercial projects, where I've utilized JavaScript and React to bring web designs to life. Collaborating with designers and other developers, I've been involved in all stages of development, from concept to deployment.
+
+During my studies, I actively participated in team projects, taking on roles such as team lead, scrum master, and developer. These projects enhanced my technical skills and taught me the importance of effective communication, teamwork, and agile methodologies.
+
 ### Languages :
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -31,6 +35,7 @@ I am also well-versed in Agile and Scrum methodologies.<br>
   </tr>
 </table>
 </div>
+
 
 ### My stack and tools :
 
@@ -136,6 +141,8 @@ I am also well-versed in Agile and Scrum methodologies.<br>
 </div>
 
 <br>
+
+🎯 My primary goal is to become an expert in frontend development, constantly pushing the boundaries of what's possible on the web. I aim to work in an environment where I can tackle new challenges, learn from colleagues, and contribute to meaningful projects.
 
 <div align="center">
 <a href="https://www.codewars.com/users/prozhyvarov"><img src="https://www.codewars.com/users/prozhyvarov/badges/small">
