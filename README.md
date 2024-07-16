@@ -144,6 +144,3 @@ During my studies, I actively participated in team projects, taking on roles suc
 
 🎯 My primary goal is to become an expert in frontend development, constantly pushing the boundaries of what's possible on the web. I aim to work in an environment where I can tackle new challenges, learn from colleagues, and contribute to meaningful projects.
 
-<div align="center">
-<a href="https://www.codewars.com/users/prozhyvarov"><img src="https://www.codewars.com/users/prozhyvarov/badges/small">
-</div>
